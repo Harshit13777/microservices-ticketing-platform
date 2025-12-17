@@ -12,3 +12,5 @@ service separation, API design, and containerized deployment.
 
 ### Tech Stack
 Node.js, TypeScript, MongoDB, Docker, Kubernetes, NAT
+
+Built as part of a structured learning project to understand microservices architecture.
